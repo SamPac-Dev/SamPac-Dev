@@ -10,7 +10,7 @@ Backend	C#, .NET, ASP.NET Core, REST APIs
 Databases	Microsoft SQL Server, T-SQL, MySQL
 Enterprise & ERP	TeamSystem ERP, system integrations, business process automation
 E-commerce	nopCommerce, WooCommerce, PrestaShop
-AI & LLMs	Ollama, AnythingLLM, local LLMs, RAG, AI agents
+AI & LLMs	Ollama, AnythingLLM, OpenWebUi, local LLMs, RAG, AI agents
 Systems & Tools	Linux, Windows Server, IIS, Git
 
 
