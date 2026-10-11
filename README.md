@@ -28,3 +28,4 @@ I'm an active member of FermoLUG, a local Linux User Group in Italy. I support i
 Open knowledge. Practical engineering. Digital independence.
 I believe technology should be useful, understandable, and accessible—and that open-source tools can help people and organizations stay in control of their data.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingsamuelepacioni/)
