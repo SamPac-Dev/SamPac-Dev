@@ -1,6 +1,6 @@
-## Hi there 👋
+## Samuele Pacioni - Software Engineer & IT Consultant
 
-<!--
+
 I'm a Senior Software Engineer & IT Consultant with over 12 years of experience building enterprise applications, integrating business systems, and developing web solutions.
 I mainly work with C#, .NET, ASP.NET Core, and SQL Server, focusing on reliable REST APIs, ERP integrations, and e-commerce platforms.
 Beyond my day-to-day work, I'm passionate about Linux, open source, and Local AI. I enjoy experimenting with locally hosted LLMs, Retrieval-Augmented Generation (RAG), and AI agents—with a special interest in privacy, digital independence, and sustainable computing.
@@ -25,4 +25,4 @@ I'm an active member of FermoLUG, a local Linux User Group in Italy. I support i
 💡 What I Believe In
 Open knowledge. Practical engineering. Digital independence.
 I believe technology should be useful, understandable, and accessible—and that open-source tools can help people and organizations stay in control of their data.
--->
+
