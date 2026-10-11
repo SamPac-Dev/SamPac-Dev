@@ -20,8 +20,10 @@ Systems & Tools	Linux, Windows Server, IIS, Git
 - Testing AI agents and practical automation workflows.
 - Exploring privacy-conscious alternatives to cloud-only AI services.
 - Sharing hands-on experiments and lessons learned with the open-source community.
+
 🐧 Open Source & Community
 I'm an active member of FermoLUG, a local Linux User Group in Italy. I support initiatives that promote Linux, open-source software, and digital literacy, including Linux Day.
+
 💡 What I Believe In
 Open knowledge. Practical engineering. Digital independence.
 I believe technology should be useful, understandable, and accessible—and that open-source tools can help people and organizations stay in control of their data.
